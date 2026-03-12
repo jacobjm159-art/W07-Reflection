@@ -16,7 +16,9 @@ execute:
 
 ## 1.
 
+::: callout-note
 Download and Install Positron. As you watch the videos in Step 1 and Step 3, follow the activities in the video and be familiar with Positron.
+:::
 
 ```{r}
 library(tibble)
@@ -41,32 +43,50 @@ print(p)
 
 ## 2.
 
+::: callout-note
 Based on what you learned from Step 1 and Step 3, what do you like about Positron compared with RStudio?
+:::
 
 Positron allows for previewing inside of itself, and also is compatible with coding in Python. Positron is also more frequently updated with new features that significantly enhance the coding experience.
 
 ## 3.
 
+::: callout-note
 In Step 4, the video demonstrates how you can use AI. 
+:::
 
-1.  Describe the various ways you can use AI inside Positron. Some are free while others are not.
+1.  ::: callout-tip
+    Describe the various ways you can use AI inside Positron. Some are free while others are not.
+    :::
 
     Positron's A.I. assistant can generate code based on a user-given prompt. This code can then be copied and pasted into your query, where it can render. The artificial intelligence can also automatically debug any problems by analyzing and finding the issue inside the code.
 
-2.  Which AI tools have you installed or set up? Which AI tools did you find beneficial for you?
+2.  ::: callout-tip
+    Which AI tools have you installed or set up? Which AI tools did you find beneficial for you?
+    :::
 
     I was declined by GitHub Copilot, so I was not able to set up any tools. However, I am interested in databot, which is an experimental extension that is designed for data analysis using artificial intelligence. Another tool that intrigues me is the debug feature. This feature not only generates a solution to your coding issues, but also gives context so you can learn from your mistake.
 
-3.  I strongly recommend using GitHub Copilot, which is free if you apply for an education account.
+3.  ::: callout-tip
+    I strongly recommend using GitHub Copilot, which is free if you apply for an education account.
+    :::
 
-    1.  Apply for it and take a screenshot showing you were accepted into the education program. 
+    1.  ::: callout-important
+        Apply for it and take a screenshot showing you were accepted into the education program. 
+        :::
 
         ![](images/copilot%20declined.png)
 
-    2.  Play with it, and do you find it helpful or distracting? Please elaborate
+    2.  ::: callout-important
+        Play with it, and do you find it helpful or distracting? Please elaborate
+        :::
 
-        I think it would be helpful because it makes coding more efficient. Instead of having to look up what we need help with in an external search engine, we can use the built-in artificial intelligence to generate code for us.
+        I think it would be helpful because it makes coding more efficient. Instead of having to look up what we need help with in an external search engine, we can use the built-in artificial intelligence to generate code for us. This feature also can grab more knowledge specifically related to our problem.
 
 ## 4.
 
+::: callout-note
 Publish this report to GitHub Pages and provide a URL to the GitHub Pages for the report. Note that although both GitHub Pages and GitHub repo are online, they are different. GitHub Pages is a website publishing service that hosts the rendered HTML from a QMD file.
+:::
+
+[Website](https://github.com/jacobjm159-art/W07-Reflection)
